@@ -1,10 +1,10 @@
 {
-    "name": "analytics",
+    "name": "server",
     "version": "1.0.0",
     "main": "index.js",
     "type": "module",
     "scripts": {
-        "npm run start": "node index.js"
+        "start": "node app.js"
     },
     "keywords": [],
     "author": "",
